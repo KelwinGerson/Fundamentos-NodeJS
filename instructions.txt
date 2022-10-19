@@ -1,2 +1,17 @@
+COMANDS
+
 yarn init -y → start project with something configs default
 yarn add express → dependencies from create a server, etc
+yarn add nodemon -D → add nodemon (refresh server) how dev dependencies
+
+----------------
+
+GET - Search a info 
+POST - Put a info 
+PUT - Change a info
+PATCH - Change a especify info
+DELETE - Delete a info
+
+----------------
+
+Browser return only get method
