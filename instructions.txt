@@ -1,0 +1,2 @@
+yarn init -y → start project with something configs default
+yarn add express → dependencies from create a server, etc
