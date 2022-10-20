@@ -15,3 +15,9 @@ DELETE - Delete a info
 ----------------
 
 Browser return only get method
+
+* TIPOS DE PARÂMETROS *
+
+Route Params → Identify one resource from edity/delete/Search
+Query Params → Paginação / Filtro
+Body Params → Objects which insert or change 
